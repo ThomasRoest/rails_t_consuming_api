@@ -1,5 +1,5 @@
 class StaticPagesController < ApplicationController
-  include Animatedgifme
+  # include Animatedgifme
   
   def home
   end

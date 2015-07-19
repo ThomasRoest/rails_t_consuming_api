@@ -3,6 +3,13 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
+.container {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
 .gif-container {
-  max-width: 100%;
+  img {
+    max-width: 100%;  
+  }
 }
